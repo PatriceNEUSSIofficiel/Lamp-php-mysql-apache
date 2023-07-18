@@ -1,7 +1,6 @@
-# Galaxiera readme file
+# lamp readme file
 
 ## Lauch Service
-
 
 ```bash
    docker-compose up -d --build
